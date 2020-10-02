@@ -1,0 +1,10 @@
+C:\Users\amare\OneDrive\Bureau\C#_project\CalculatorExample\CalculatorExample\bin\Debug\CalculatorExample.exe.config
+C:\Users\amare\OneDrive\Bureau\C#_project\CalculatorExample\CalculatorExample\bin\Debug\CalculatorExample.exe
+C:\Users\amare\OneDrive\Bureau\C#_project\CalculatorExample\CalculatorExample\bin\Debug\CalculatorExample.pdb
+C:\Users\amare\OneDrive\Bureau\C#_project\CalculatorExample\CalculatorExample\obj\Debug\CalculatorExample.csprojAssemblyReference.cache
+C:\Users\amare\OneDrive\Bureau\C#_project\CalculatorExample\CalculatorExample\obj\Debug\CalculatorExample.Properties.Resources.resources
+C:\Users\amare\OneDrive\Bureau\C#_project\CalculatorExample\CalculatorExample\obj\Debug\CalculatorExample.csproj.GenerateResource.cache
+C:\Users\amare\OneDrive\Bureau\C#_project\CalculatorExample\CalculatorExample\obj\Debug\CalculatorExample.csproj.CoreCompileInputs.cache
+C:\Users\amare\OneDrive\Bureau\C#_project\CalculatorExample\CalculatorExample\obj\Debug\CalculatorExample.exe
+C:\Users\amare\OneDrive\Bureau\C#_project\CalculatorExample\CalculatorExample\obj\Debug\CalculatorExample.pdb
+C:\Users\amare\OneDrive\Bureau\C#_project\CalculatorExample\CalculatorExample\obj\Debug\CalculatorExample.Form1.resources
